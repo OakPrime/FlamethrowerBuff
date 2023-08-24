@@ -1,0 +1,12 @@
+C:\Users\Dan\source\repos\FlamethrowerBuff\FlamethrowerBuff\bin\Debug\netstandard2.0\FlamethrowerBuff.deps.json
+C:\Users\Dan\source\repos\FlamethrowerBuff\FlamethrowerBuff\bin\Debug\netstandard2.0\FlamethrowerBuff.dll
+C:\Users\Dan\source\repos\FlamethrowerBuff\FlamethrowerBuff\bin\Debug\netstandard2.0\FlamethrowerBuff.pdb
+C:\Users\Dan\source\repos\FlamethrowerBuff\FlamethrowerBuff\bin\Debug\netstandard2.0\R2API.Language.dll
+C:\Users\Dan\source\repos\FlamethrowerBuff\FlamethrowerBuff\obj\Debug\netstandard2.0\FlamethrowerBuff.csproj.AssemblyReference.cache
+C:\Users\Dan\source\repos\FlamethrowerBuff\FlamethrowerBuff\obj\Debug\netstandard2.0\FlamethrowerBuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\source\repos\FlamethrowerBuff\FlamethrowerBuff\obj\Debug\netstandard2.0\FlamethrowerBuff.AssemblyInfoInputs.cache
+C:\Users\Dan\source\repos\FlamethrowerBuff\FlamethrowerBuff\obj\Debug\netstandard2.0\FlamethrowerBuff.AssemblyInfo.cs
+C:\Users\Dan\source\repos\FlamethrowerBuff\FlamethrowerBuff\obj\Debug\netstandard2.0\FlamethrowerBuff.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\FlamethrowerBuff\FlamethrowerBuff\obj\Debug\netstandard2.0\FlamethrowerBuff.csproj.CopyComplete
+C:\Users\Dan\source\repos\FlamethrowerBuff\FlamethrowerBuff\obj\Debug\netstandard2.0\FlamethrowerBuff.dll
+C:\Users\Dan\source\repos\FlamethrowerBuff\FlamethrowerBuff\obj\Debug\netstandard2.0\FlamethrowerBuff.pdb
